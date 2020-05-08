@@ -1,0 +1,11 @@
+npm install -g @nestjs/cli (como administrador)
+nest
+nest new hello-world (escolher gerenciador de pacote npm ou yarn, escolhi npm)
+cd hello-world
+nest start (compila typescript p/ javascript e starta servidor)
+
+acessar localhost:3000
+
+nest generate controller teste (gerar um novo controller)
+
+npm run start:dev (starta e escuta alterações)
