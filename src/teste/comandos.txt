@@ -9,3 +9,5 @@ acessar localhost:3000
 nest generate controller teste (gerar um novo controller)
 
 npm run start:dev (starta e escuta alterações)
+
+fim!
